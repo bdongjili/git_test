@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import cn.itcast.pojo.User;
 import cn.itcast.service.HbaseService;
-
+//小袁修改了部分源码，提交到远程仓库
 @Controller
 public class UserController {
 	
